@@ -2,4 +2,4 @@
 
 - Learning GitHub
 
-1- how to push modifications to GitHub
+1- how to push modifications to GitHub.
